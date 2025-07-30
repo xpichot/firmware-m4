@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-project(firmware_m4 C ASM)
+project(firmware-m4 C ASM)
 
 set( CMAKE_COMMON_SRC_DIR  "${CMAKE_SOURCE_DIR}/../src" )
 set( CMAKE_COMMON_RSRC_DIR "${CMAKE_SOURCE_DIR}/../ressources" )
